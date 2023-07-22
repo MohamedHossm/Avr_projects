@@ -1,0 +1,8 @@
+SERVICES/ADC_SERVICE.d SERVICES/ADC_SERVICE.o: ../SERVICES/ADC_SERVICE.c \
+ ../StdTypes.h ../MCAL/ADC_Interface.h ../SERVICES/ADC_SERVICE.h
+
+../StdTypes.h:
+
+../MCAL/ADC_Interface.h:
+
+../SERVICES/ADC_SERVICE.h:
